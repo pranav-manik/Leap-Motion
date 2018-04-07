@@ -1,4 +1,4 @@
 # Leap-Motion
 Leap Motion Hackathon Bitcamp 2018
- Pranav Maniktala
+by Pranav Maniktala
 Saajid Farooq
